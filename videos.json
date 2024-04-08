@@ -1,0 +1,92 @@
+[
+        {
+            "id": 1,
+            "url": "http://playgrounds-cdn.apple.com/assets/algeria/index.m3u8",
+            "is3D": false,
+            "title": "Algeria",
+            "imageName": "lake",
+            "description": "Explore the vast Sahara and the rich history of Algeria, from ancient Roman ruins to bustling city markets.",
+            "destination": "lake",
+            "info": {
+                "independenceYear": "1962",
+                "gdp": "170 billion USD",
+                "population": "43 million",
+                "cities": ["Algiers", "Oran", "Constantine"],
+                "Culturalheritagesites": ["Kasbah of Algiers", "M'zab Valley"],
+                "presidents": ["Abdelmadjid Tebboune"],
+                "languages": ["Arabic", "Berber"]
+            }
+        },
+        {
+            "id": 2,
+            "url": "http://playgrounds-cdn.apple.com/assets/algeria/index.m3u8",
+            "is3D": false,
+            "title": "Angola",
+            "imageName": "lake",
+            "description": "Angola, a land of stunning landscapes, offers the majestic Kalandula Falls and the serene beauty of Luanda Bay.",
+            "destination": "lake",
+            "info": {
+                "independenceYear": "1975",
+                "gdp": "62 billion USD",
+                "population": "32 million",
+                "cities": ["Luanda", "Huambo", "Lobito"],
+                "Culturalheritagesites": ["Mbanza Kongo", "Kissama National Park"],
+                "presidents": ["João Lourenço"],
+                "languages": ["Portuguese"]
+            }
+        },
+        {
+            "id": 3,
+            "url": "http://playgrounds-cdn.apple.com/assets/algeria/index.m3u8",
+            "is3D": false,
+            "title": "Benin",
+            "imageName": "lake",
+            "description": "Benin, the birthplace of vodun, offers a rich tapestry of royal history, vibrant culture, and the wild beauty of Pendjari National Park.",
+            "destination": "lake",
+            "info": {
+                "independenceYear": "1960",
+                "gdp": "14 billion USD",
+                "population": "12 million",
+                "cities": ["Porto-Novo", "Cotonou", "Parakou"],
+                "Culturalheritagesites": ["Royal Palaces of Abomey"],
+                "presidents": ["Patrice Talon"],
+                "languages": ["French"]
+            }
+        },
+        {
+            "id": 4,
+            "url": "http://playgrounds-cdn.apple.com/assets/algeria/index.m3u8",
+            "is3D": false,
+            "title": "Botswana",
+            "imageName": "lake",
+            "description": "Discover Botswana's thriving wildlife in the Okavango Delta, an oasis in the Kalahari Desert, offering unparalleled safari experiences.",
+            "destination": "lake",
+            "info": {
+                "independenceYear": "1966",
+                "gdp": "18 billion USD",
+                "population": "2.3 million",
+                "cities": ["Gaborone", "Francistown", "Maun"],
+                "Culturalheritagesites": ["Tsodilo Hills"],
+                "presidents": ["Mokgweetsi Masisi"],
+                "languages": ["English", "Setswana"]
+            }
+        },
+        {
+            "id": 5,
+            "url": "http://playgrounds-cdn.apple.com/assets/algeria/index.m3u8",
+            "is3D": false,
+            "title": "Burkina Faso",
+            "imageName": "lake",
+            "description": "Burkina Faso, a land of resilient people and striking landscapes, features the enchanting Sindou Peaks and rich cultural festivals.",
+            "destination": "lake",
+            "info": {
+                "independenceYear": "1960",
+                "gdp": "16 billion USD",
+                "population": "20.9 million",
+                "cities": ["Ouagadougou", "Bobo-Dioulasso", "Koudougou"],
+                "Culturalheritagesites": ["Ruins of Loropéni"],
+                "presidents": ["Roch Marc Christian Kaboré"],
+                "languages": ["French"]
+               }
+            }
+    ]
